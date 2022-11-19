@@ -1,0 +1,22 @@
+British BASH language
+
+£ say " 'ello govna' ";
+£ scream["BLOODY HELL!"]; # Scream writes to both the CLI and to a popup GUI window, and also does a voice from a random Harry Potter character through TTS
+€ Brexit # Exits the program
+The line preceding the line preceding this line needs to be modified, it is too cringy.
+
+£ Pound
+Defines as
+£ £
+£ Pound Pound Pound
+Defines as
+£ £ £ £
+And so on, you get it
+
+Meanwhile
+
+£ return €
+Is equivalent to
+€ brexit
+And
+£ return 0;
